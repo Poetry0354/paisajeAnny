@@ -1,6 +1,6 @@
 ---
-title: The Arcane
-description: The mystical elements of the world
+title: Projects
+description: Proyectos en los que participe desde distintos roles y funciones.
 image: "@assets/docs/the-arcane/cover.jpg"
-imageAlt: Painting of swamp, with a glowing figure in the distance
+imageAlt: Imagen que hace referencia al esfuerzo y dedicación en mis proyectos.
 ---

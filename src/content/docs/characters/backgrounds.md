@@ -1,143 +1,110 @@
 ---
-title: Backgrounds
-description: "A collection of backgrounds that shape a character’s skills, motivations, and story before becoming an adventurer."
-image: "@assets/docs/characters/backgrounds/cover.jpg"
-imageAlt: "Painting of a hooded figure with light beaming out from his chest"
-pubDate: 2024-07-15
-modDate: 2024-08-03
+title: Professional Background
+description: Information about my professional journey as a Software Developer, highlighting my experience, skills, and achievements in the field.
+image: "@assets/docs/characters/backgrounds/fondoProfesional1.jpg"
+imageAlt: "Professional background illustration"
 ---
 
-Every adventurer has a story, a life led before they set out on their journey. Backgrounds provide skills, tools, and roleplay opportunities that reflect where characters come from and what drives them.
-
----
-
-## Acolyte
-
-Raised in the service of a deity, acolytes are deeply spiritual and often seek to spread their faith.
-
-### Features
-
-- **Skill Proficiencies**: Insight, Religion
-- **Tool Proficiency**: None
-- **Languages**: Two of your choice
-- **Equipment**: Holy symbol, prayer book, 5 sticks of incense, common clothes, 15 gold pieces
-
-### Feature: **Shelter of the Faithful**
-
-You can seek aid and sanctuary from those of your faith, often gaining room and board at temples.
+As a passionate Software Developer, I've embarked on an exciting journey in the world of technology, continuously learning and growing in this ever-evolving field. My career path reflects my commitment to creating efficient, user-friendly solutions and my dedication to mastering new technologies.
 
 ---
 
-## Criminal
+## Professional Experience
 
-Criminals have lived on the wrong side of the law, honing their skills in deception and survival.
+### Software Developer
+I specialize in developing web applications and solutions, with a strong focus on creating intuitive user interfaces and implementing robust backend functionality. My experience includes:
 
-### Features
+- Building responsive web applications using modern JavaScript frameworks
+- Implementing clean, maintainable code following best practices
+- Collaborating with cross-functional teams to deliver high-quality software solutions
+- Working with agile methodologies to ensure efficient project delivery
 
-- **Skill Proficiencies**: Deception, Stealth
-- **Tool Proficiencies**: One type of gaming set, thieves’ tools
-- **Languages**: None
-- **Equipment**: Crowbar, dark clothes, 15 gold pieces
+### Key Skills & Technologies
 
-### Feature: **Criminal Contact**
+- **Frontend Development**: 
+  - Frameworks & Libraries: React.js, Redux
+  - Core Technologies: JavaScript, HTML5, CSS3
+  - State Management: Redux
+  - UI/UX Development
+  - Responsive Design
 
-You have a reliable and trustworthy contact within the criminal underworld who provides information or aid.
+- **Backend Development**: 
+  - Frameworks: Django, Laravel
+  - Languages: Python, PHP, Java
+  - API Development: RESTful APIs
+  - Server Management
+  - Authentication & Authorization
 
----
+- **Database Management**: 
+  - Relational: MySQL, PostgreSQL
+  - NoSQL: MongoDB
+  - Database Design & Optimization
+  - Query Performance Tuning
 
-## Folk Hero
+- **Development Tools & Practices**: 
+  - Version Control: Git, GitHub
+  - IDEs: VS Code, PyCharm
+  - Containerization: Docker
+  - Testing: Jest, PyTest
+  - CI/CD: Jenkins, GitHub Actions
 
-Hailing from a humble origin, folk heroes are champions of the people, inspired by tales of bravery.
+### Notable Projects
 
-### Features
+Throughout my career, I've contributed to various projects that have helped me grow as a developer. Some highlights include:
 
-- **Skill Proficiencies**: Animal Handling, Survival
-- **Tool Proficiencies**: One type of artisan’s tools, vehicles (land)
-- **Languages**: None
-- **Equipment**: Iron pot, common clothes, shovel, 10 gold pieces
+1. **Web Application Development**
+   - Developed responsive user interfaces
+   - Implemented complex business logic
+   - Integrated third-party APIs and services
 
-### Feature: **Rustic Hospitality**
+2. **Backend Systems**
+   - Created scalable server architectures
+   - Designed and optimized database schemas
+   - Implemented secure authentication systems
 
-You can find shelter and aid among common folk, who see you as a hero of their cause.
-
----
-
-## Noble
-
-Born into privilege, nobles are accustomed to power and influence, often using it to further their goals.
-
-### Features
-
-- **Skill Proficiencies**: History, Persuasion
-- **Tool Proficiency**: One type of gaming set
-- **Languages**: One of your choice
-- **Equipment**: Fine clothes, signet ring, scroll of pedigree, 25 gold pieces
-
-### Feature: **Position of Privilege**
-
-You command respect among the aristocracy, and common folk defer to your status.
-
----
-
-## Sage
-
-Sages are scholars who have devoted their lives to the pursuit of knowledge, whether arcane or mundane.
-
-### Features
-
-- **Skill Proficiencies**: Arcana, History
-- **Tool Proficiency**: None
-- **Languages**: Two of your choice
-- **Equipment**: Ink and quill, small knife, common clothes, 10 gold pieces
-
-### Feature: **Researcher**
-
-If you don’t know a piece of information, you often know where to find it or who to ask.
+3. **Team Collaboration**
+   - Participated in code reviews
+   - Mentored junior developers
+   - Contributed to technical documentation
 
 ---
 
-## Soldier
+## Academic Formation
 
-Soldiers are disciplined warriors trained in battle, loyal to a cause or commander.
+### Technology Degree in Software Analysis and Development
+**SENA (Servicio Nacional de Aprendizaje)**
+- Comprehensive training in software development lifecycle
+- Strong foundation in programming fundamentals and best practices
+- Focus on practical, industry-relevant skills
+- Development of analytical thinking and problem-solving abilities
+- Integration of technical skills with professional ethics
 
-### Features
+### Software Development Technical Training
+**Comfatolima (Caja de Compensación Familiar)**
+- Intensive practical training in modern development technologies
+- Hands-on experience with industry-standard tools and frameworks
+- Focus on real-world project development
+- Emphasis on collaborative development practices
+- Integration of soft skills with technical expertise
 
-- **Skill Proficiencies**: Athletics, Intimidation
-- **Tool Proficiency**: One type of gaming set, vehicles (land)
-- **Languages**: None
-- **Equipment**: Insignia of rank, trophy from a defeated foe, uniform, 10 gold pieces
-
-### Feature: **Military Rank**
-
-You can invoke your rank to requisition simple supplies or gain access to friendly military encampments.
-
----
-
-## Outlander
-
-Outlanders hail from the wilderness, skilled in survival and self-reliance.
-
-### Features
-
-- **Skill Proficiencies**: Athletics, Survival
-- **Tool Proficiency**: One type of musical instrument
-- **Languages**: One of your choice
-- **Equipment**: Staff, hunting trap, animal trophy, traveler’s clothes, 10 gold pieces
-
-### Feature: **Wanderer**
-
-You can always recall the general layout of terrain and can find food and water for up to five people.
+### Key Learning Outcomes
+- Development of a holistic approach to software solutions
+- Strong foundation in both frontend and backend technologies
+- Understanding of software architecture and design patterns
+- Experience in agile methodologies and team collaboration
+- Commitment to continuous learning and professional growth
+- Development of critical thinking and problem-solving abilities
+- Integration of professional ethics and best practices
 
 ---
 
-## Creating a Background
+## Professional Growth
 
-Players are encouraged to work with the DM to create custom backgrounds, incorporating elements that fit their character’s story. Custom backgrounds can mix and match skill proficiencies, tool proficiencies, and features to best reflect the character’s unique history.
+I am constantly updating my skills and knowledge through:
 
----
+- Professional development courses
+- Technical workshops and webinars
+- Industry conferences and meetups
+- Open source contributions
 
-### Background and Roleplay
-
-Your background is more than just mechanics—it’s a vital part of your character’s identity. It shapes their interactions, motivations, and outlook on the world.
-
-Will your criminal past come back to haunt you? Will your noble name open doors or create enemies? The choice is yours.
+My goal is to continue growing as a developer while contributing to meaningful projects that make a positive impact in the tech community.

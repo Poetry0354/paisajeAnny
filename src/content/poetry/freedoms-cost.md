@@ -1,9 +1,9 @@
 ---
-title: Freedom's Cost
-author: john-doe
-date: 2024-10-10
+title: The redeemer
+author: Samuel <3
+date: 2025-06-04
 ---
 
-Walls that hold our fear,  
-Titans rise, a storm draws near,  
-Freedom’s cost is clear.
+She who, like the touch of my Lord, redeems with love and affection, my sweet love, how can I repay you?
+
+Your kisses are what fill me with the same love that saved me. I believe you are a tool of the Redeemer himself. I give thanks for that, because I have the privilege of seeing and feeling you in my skin.

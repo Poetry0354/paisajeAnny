@@ -1,85 +1,112 @@
 ---
-title: Deities
-description: A guide to the deities of the arcane, their domains, and blessings bestowed upon followers.
-image: "@assets/docs/the-arcane/deities/cover.jpg"
-imageAlt: Painting of an important looking woman 
-pubDate: 2024-12-02
-modDate: 2024-12-02
----
-
-The arcane deities govern the mysteries of magic, knowledge, and the unseen threads that weave the world together. Their influence is subtle yet profound, and their blessings are sought by mages, scholars, and truth-seekers.
+title: Personal Portfolio Website
+description: A vintage-inspired portfolio showcasing my journey as a software developer through an elegant and organized design.
+image: "@assets/backgrounds/flowerDay.png"
+imageAlt: "Vintage floral design background"
 
 ---
 
-## Vaelthar, The Weaver of Mysteries
-
-Vaelthar is the guardian of forbidden knowledge and the patron of wizards who seek to unlock the unknown. His form is said to be a shifting constellation, ever-changing and unknowable.
-
-### Domains
-
-- Knowledge
-- Secrets
-- Cosmic Magic
-
-### Blessings
-
-- Insight of the Unknown: Followers may cast divination spells with an additional level of clarity, reducing the chance of cryptic responses.
-- Veil Piercer: Once per day, a devotee can detect hidden magical auras within 60 feet, bypassing illusions or concealment.
+This portfolio website represents my personal brand as a software developer, designed with a vintage aesthetic featuring floral elements. The project combines modern web technologies with classic design principles to create an engaging and organized presentation of my professional journey.
 
 ---
 
-## Sylvanea, The Moonlit Scholar
+## Design Philosophy
 
-Sylvanea governs the realm of structured learning and research. Often depicted as a serene figure reading an ancient tome under moonlight, she embodies the tranquility of study.
+The portfolio website embodies a careful balance between professional presentation and personal style, featuring:
 
-### Domains
+### Visual Elements
 
-- Wisdom
-- Ritual Magic
-- Lunar Phases
+- Vintage-inspired floral motifs
+- Soft, harmonious color palette
+- Day/night theme transitions
+- Elegant typography selection
+- Responsive design elements
 
-### Blessings
+### User Experience
 
-- **Eidetic Recall**: Followers can remember anything they read or hear perfectly for one week.
-- **Phases of Power**: Devotees gain a bonus to their spellcasting during specific lunar phases.
+- Intuitive navigation structure
+- Clear content hierarchy
+- Smooth transitions
+- Accessible interface
+- Organized section layout
 
-| **Lunar Phase** | **Effect**               |
-| --------------- | ------------------------ |
-| Full Moon       | Increased spell damage   |
-| New Moon        | Improved stealth magic   |
-| Crescent Moon   | Enhanced illusion spells |
+## Technical Implementation
+
+### Core Technologies
+
+- **Framework**: Astro.js for optimal performance
+- **Styling**: Tailwind CSS with custom configurations
+- **Typography**: Carefully selected web fonts
+- **Images**: Optimized background patterns and icons
+- **Responsive Design**: Mobile-first approach
+
+### Key Features
+
+- Dynamic theme switching
+- Responsive navigation
+- Custom floral backgrounds
+- Optimized performance
+- SEO-friendly structure
+
+## Content Organization
+
+### Professional Sections
+
+1. **About Me**
+   - Personal introduction
+   - Professional summary
+   - Core values and goals
+
+2. **Professional Path**
+   - Education background
+   - Technical training
+   - Certifications
+
+3. **Projects & Skills**
+   - Technical expertise
+   - Project showcases
+   - Community contributions
+
+### Design Elements
+
+#### Visual Identity
+- Floral patterns for personal touch
+- Professional color scheme
+- Balanced white space
+- Consistent visual hierarchy
+
+#### Interactive Elements
+- Smooth scroll navigation
+- Responsive image galleries
+- Dynamic content loading
+- Theme toggle functionality
+
+## Project Outcomes
+
+### Achievements
+- Created a unique personal brand
+- Balanced aesthetics with functionality
+- Implemented responsive design
+- Optimized performance metrics
+
+### Learning Experience
+- Advanced Astro.js implementation
+- Custom theme development
+- Performance optimization
+- Content organization strategies
 
 ---
 
-## Korathal, The Flame of Creation
+## Future Enhancements
 
-Korathal represents raw magical power, the spark of invention, and the fire that forges both worlds and ideas. He is often shown as a blazing figure of molten gold.
+Planned improvements include:
+- Enhanced interactive elements
+- Additional project showcases
+- Blog section integration
+- Performance optimizations
+- Expanded content sections
 
-### Domains
-
-- Creativity
-- Destruction
-- Elemental Magic (Fire)
-
-### Blessings
-
-- **Ember's Touch**: Followers can summon a harmless flame in their palm, useful for light or small-scale crafting.
-- **Ignition Surge**: Once per day, amplify a fire-based spell to deal additional damage equal to the caster's level.
-
-> **Note**: Korathal's blessings often come with a warning. Those who seek power for destructive purposes without balance may find themselves consumed by the same flames they wield.
+The portfolio continues to evolve, reflecting both my professional growth and personal style while maintaining its core vintage-inspired aesthetic.
 
 ---
 
-## The Tapestry of the Arcane
-
-These deities, though distinct, are believed to work in harmony, their domains interwoven into a grand celestial tapestry. Followers often honor multiple members of the pantheon, seeking balance in their magical pursuits.
-
----
-
-### Example Ritual for Vaelthar
-
-``` txt
-- Prepare a silver bowl filled with pure water under the night sky.
-- Speak the incantation: *"Vaelthar, guide my thoughts beyond the veil."*
-- Drop a shard of obsidian into the water and gaze at the reflections to receive a vision.
-```

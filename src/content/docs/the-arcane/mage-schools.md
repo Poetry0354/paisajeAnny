@@ -1,90 +1,133 @@
 ---
-title: Mage Schools
-description: An overview of the magical schools and the unique paths they offer to aspiring mages
+title: ATLAS - Integrated Management System
+description: Comprehensive management system for computer maintenance companies, built with React and Django
 image: "@assets/docs/the-arcane/mage-schools/cover.jpg"
-imageAlt: Painting of a woman summoning earthen hands on a battlefield
-pubDate: 2024-07-15
-modDate: 2024-09-10
----
-
-Throughout the realms, magic is studied and practiced in structured institutions known as Mage Schools. Each school specializes in a specific aspect of magic, offering unique skills and philosophies to its students.
+imageAlt: ATLAS system dashboard showing maintenance statistics
 
 ---
 
-## School of Pyromancy
-
-The School of Pyromancy is dedicated to the mastery of fire and heat. Students learn to wield destructive power with precision, forging bonds with the raw energy of flames.
-
-### Curriculum
-
-- Basic Fire Manipulation
-- Advanced Combustion Theory
-- Forgecraft and Elemental Bonding
-
-### Signature Spell
-
-**Infernal Surge**: A torrent of flame that engulfs enemies in a cone, leaving scorched earth in its wake.
+ATLAS is a comprehensive technological solution specifically designed for computer maintenance companies. The system combines a modern, user-friendly interface with powerful management tools to optimize daily operations.
 
 ---
 
-## School of Chronomancy
+## Key Features
 
-Chronomancy focuses on the manipulation of time, teaching mages to alter the flow of events, foresee possibilities, and even undo mistakes.
+### Service Management
 
-### Curriculum
+- Service order tracking
+- Preventive maintenance scheduling
+- Detailed equipment history
+- Support ticket system
+- Automated notifications
 
-- Temporal Distortion
-- Time Loop Mechanics
-- Future Sight Applications
+### Inventory and Resources
 
-### Signature Spell
+- Parts and supplies control
+- Tools management
+- Low stock alerts
+- Component traceability
+- Utilization reports
 
-**Temporal Echo**: Create a duplicate of yourself from a few seconds into the past, allowing you to attack or cast spells in tandem.
+## Technical Architecture
 
-> **Warning**: Misuse of chronomancy can lead to paradoxes, causing unpredictable side effects.
+### Frontend (React)
 
----
+- **Core Technologies**:
+  - React with TypeScript
+  - Redux for state management
+  - Material-UI for components
+  - React Query for caching and requests
+  - Charts.js for visualizations
 
-## School of Illusion
+### Backend (Django)
 
-The School of Illusion centers on bending reality to deceive the senses. Illusionists are masters of subtlety, capable of creating intricate mirages and disguises.
+- **Core Components**:
+  - Django REST Framework
+  - PostgreSQL database
+  - JWT authentication
+  - Celery for async tasks
+  - Redis for caching
 
-### Curriculum
+### Supabase Integration
 
-- Sensory Manipulation
-- Advanced Hallucinations
-- Reality Anchoring Techniques
+- User authentication
+- File storage
+- Realtime subscriptions
+- Automated backups
+- Security and encryption
 
-### Signature Spell
+## System Modules
 
-**Veil of Falsehood**: Cloak yourself or an ally in an illusion, making them appear as another person or creature.
+### 1. Client Management
+- Company profiles
+- Service histories
+- Contracts and warranties
+- Integrated billing
 
-| **Skill Level** | **Illusion Size**      |
-| --------------- | ---------------------- |
-| Novice          | Small object or sound  |
-| Adept           | One humanoid           |
-| Master          | Entire building facade |
+### 2. Maintenance Control
+- Service scheduling
+- Technician assignment
+- Real-time tracking
+- Service reporting
 
----
+### 3. Technical Inventory
+- Equipment catalog
+- Spare parts control
+- Supplier management
+- Stock alerts
 
-## School of Transmutation
+### 4. Reports and Analytics
+- Customizable dashboard
+- Performance metrics
+- Financial reporting
+- Predictive analysis
 
-Transmutation mages specialize in altering matter and energy. Their craft allows them to reshape the physical world, turning mundane materials into tools of wonder.
+## System Benefits
 
-### Curriculum
+### For the Company
+- Resource optimization
+- Productivity improvement
+- Financial control
+- Informed decision making
 
-- Elemental Conversion
-- Morphic Stability
-- Alchemical Integration
+### For Technicians
+- Mobile access
+- Technical guides
+- Service history
+- Time management
 
-### Signature Spell
+### For Clients
+- Self-service portal
+- Ticket tracking
+- Digital documentation
+- Direct communication
 
-**Formshift**: Temporarily transform an object or creature into another form of similar size and mass.
+## Development and Implementation
 
----
+### Methodology
+- Agile development (Scrum)
+- 2-week sprints
+- Continuous reviews
+- Automated testing
 
-## The Path of the Mage
+### Security
+- Multi-factor authentication
+- Data encryption
+- Access auditing
+- Automated backups
 
-Selecting a school is not merely an academic decision; it shapes the very essence of a mage's journey. Some students choose a single school, while others dabble in multiple disciplines, becoming versatile spellcasters.
+## Upcoming Features
 
-For those seeking mastery, the road is arduous but rewarding. Which school will you choose to unlock your arcane potential?
+### In Development
+- Mobile app for technicians
+- Supplier integration
+- Quotation system
+- AI diagnostics
+
+### Planned
+- Training module
+- Support chatbot
+- IoT integration
+- Regional expansion
+
+The ATLAS system continues to evolve to meet the changing needs of the equipment maintenance sector, maintaining its commitment to efficiency and service quality.
