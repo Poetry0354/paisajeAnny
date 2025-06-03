@@ -1,9 +1,10 @@
 ---
-image: "@assets/astrogon-star.svg"
+image: "@assets/logo.svg"
 imageAlt: Astrogon logo
-title: Astrogon
-content: A rapidly-customizable template for a blog, documentation, and more.
+title: Portafolio
+content: Desarrolladora apasionada por la tecnología, implemetando soluciones en Back ¡Explora mis proyectos y conoce más sobre mi trabajo!
+
 button:
-  label: See the Code
-  link: https://github.com/astrogon/astrogon
+  label: Mira mi Codigo
+  link: https://github.com/shion32
 ---
