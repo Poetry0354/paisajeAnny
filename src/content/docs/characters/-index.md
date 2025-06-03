@@ -1,6 +1,6 @@
 ---
-title: Characters
-description: Character creation information
+title: Education
+description: La información de mi formación integral como profesional en instituciones y recursos autonomos.
 image: "@assets/docs/characters/cover.jpg"
-imageAlt: A white knight, painted dramatically
+imageAlt: Imagen referente a la educación como pilar.
 ---

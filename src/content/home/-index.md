@@ -1,10 +1,10 @@
 ---
 image: "@assets/logo.svg"
 imageAlt: Astrogon logo
-title: Portafolio
-content: Desarrolladora apasionada por la tecnología, implemetando soluciones en Back ¡Explora mis proyectos y conoce más sobre mi trabajo!
+title: Portfolio
+content: Passionate tech developer implementing solutions in Back. Explore my projects and learn more about my work!
 
 button:
-  label: Mira mi Codigo
+  label: Look at my Code
   link: https://github.com/shion32
 ---
